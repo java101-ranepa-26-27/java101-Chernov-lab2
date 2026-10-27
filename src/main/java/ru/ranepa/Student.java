@@ -9,4 +9,4 @@ public class Student {
         System.out.print("Введите ФИО студента");
         String name = in.nextLine().trim();
 
-}
+}}
